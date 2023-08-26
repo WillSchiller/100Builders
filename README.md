@@ -20,18 +20,18 @@ Panda is a research initiative born out of the work done by [zkrecover.xyz](http
 
 ## Areas of Focus
 
-### Wallet UX & Frontend
+#### Wallet UX & Frontend
 We build wallet experiments and run user testing to learn what works and what doesn't. We will update our Alpha wallet implementation at [panda.xyz](http://panda.xyz/).
 
-### Recovery
+#### Recovery
 Continuing the work done of [zkrecover.xyz](http://zkrecover.xyz), integrating it into a frontend & getting ready for production. Plus exploring other recovery methods.
 
-### Gasless Transactions
+#### Gasless Transactions
 
 Exploring the different options for gasless transactions see [ ERC-4337: Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337).
 
 
-### Developer Tools
+#### Developer Tools
 
 Creating tool for developers to deploy wallets solutions faster such as a [Safe Plugin Foundry Template](https://github.com/WillSchiller/safe-plugin-foundry-template) - A Foundry template that allows you to quickly create, deploy and register a Safe Plugin so you can focus on the plugin logic & testing instead of deployment and integration.
 
