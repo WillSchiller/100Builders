@@ -1,6 +1,8 @@
-# Panda Account Abstraction Research Initiative 🐼
+# 🐼 Panda Account Abstraction Research Initiative 
 
-🔦🦇 We are looking for wallet testers to give feedback, share wallet pain points & suggest features. Our aim is to build the best wallet UX in crypto.
+🔦🦇 We're looking for wallet testers to share their experiences, highlight areas of improvement, and suggest innovative features. Our aim is to build the best wallet UX in crypto.
+
+
 
 ## Description
 
