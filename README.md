@@ -15,7 +15,7 @@ Panda is a research initiative born out of the work done by [zkrecover.xyz](http
 #### Technology & Specs we are researching:
 
 - [SAFE{Core} Protocol](https://safe.global/core) - A modular protocol for blinding smart accounts based of Safe accounts.
-- [Noir](https://noir-lang.org/) - Aztec's new language for writing zkSNARK circuits.
+- [Noir](https://noir-lang.org/) - Aztec's new language for writing zk circuits.
 - [ERC-4337](https://www.erc4337.io/) The  Account Abstraction Specification
 - [EIP-6900](https://eips.ethereum.org/EIPS/eip-6900) - Smart contract accounts and account plugins specification.
 
