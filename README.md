@@ -1,4 +1,4 @@
-# 🐼 Panda Account Abstraction Research Initiative 
+# 🥣 panada Account Abstraction Research Initiative 
 
 🔦🦇 We're looking for wallet testers to share their experiences, highlight areas of improvement, and suggest innovative features. Our aim is to build the best wallet UX in crypto.
 
@@ -8,9 +8,9 @@
 
 The [transition to smart accounts](https://vitalik.ca/general/2023/06/09/three_transitions.html) is critical because without solid UX & Security people can't realistically use Ethereum for everyday finance, Ethereum will remain a speculative playground for the rich and normal uses will continued to get rekt by centralized exchanges. Great progress has been made on the account abstraction specification and Safe has recently provided a modular protocol for blinding smart accounts. However teams are still needed to implement the specs and turn EIP's into usable products with world class UX and security.
 
-## About The Panda Team
+## About The panada Team
 
-Panda is a research initiative born out of the work done by [zkrecover.xyz](http://zkrecover.xyz) at ETH Global Paris Hackathon. Zk recover won third prize in the Safe{Core} Protocol category. We wanted to continue the work done at the hackathon and build a team to research and implement account abstraction solutions. 
+panada is a research initiative born out of the work done by [zkrecover.xyz](http://zkrecover.xyz) at ETH Global Paris Hackathon. Zk recover won third prize in the Safe{Core} Protocol category. We wanted to continue the work done at the hackathon and build a team to research and implement account abstraction solutions. 
 
 #### Technology & Specs we are researching:
 
@@ -23,7 +23,7 @@ Panda is a research initiative born out of the work done by [zkrecover.xyz](http
 ## Areas of Focus
 
 #### Wallet UX & Frontend
-We build wallet experiments and run user testing to learn what works and what doesn't. We will update our Alpha wallet implementation at [panda.xyz](http://panda.xyz/).
+We build wallet experiments and run user testing to learn what works and what doesn't. We will update our Alpha wallet implementation at [panada.xyz](http://panada.xyz/).
 
 #### Recovery
 Continuing the work done of [zkrecover.xyz](http://zkrecover.xyz), integrating it into a frontend & getting ready for production. Plus exploring other recovery methods.
@@ -40,7 +40,7 @@ Creating tool for developers to deploy wallets solutions faster such as a [Safe 
 
 ## 100 Builders Program
 
-What we will be building for **100 Builders Program**: A Smart Account Wallet product called panda wallet that integrates our research and provides a great UX for users. We will also be building developer tools to help other teams build smart account solutions faster.
+What we will be building for **100 Builders Program**: A Smart Account Wallet product called panada wallet that integrates our research and provides a great UX for users. We will also be building developer tools to help other teams build smart account solutions faster.
 
 
 
