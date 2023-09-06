@@ -1,4 +1,4 @@
-# 🥣 panada Account Abstraction Research Initiative 
+# 🥣 Panada Account Abstraction Research Initiative 
 
 🔦🦇 We're looking for wallet testers to share their experiences, highlight areas of improvement, and suggest innovative features. Our aim is to build the best wallet UX in crypto.
 
@@ -8,9 +8,6 @@
 
 The [transition to smart accounts](https://vitalik.ca/general/2023/06/09/three_transitions.html) is critical because without solid UX & Security people can't realistically use Ethereum for everyday finance, Ethereum will remain a speculative playground for the rich and normal uses will continued to get rekt by centralized exchanges. Great progress has been made on the account abstraction specification and Safe has recently provided a modular protocol for blinding smart accounts. However teams are still needed to implement the specs and turn EIP's into usable products with world class UX and security.
 
-## About The panada Team
-
-panada is a research initiative born out of the work done by [zkrecover.xyz](http://zkrecover.xyz) at ETH Global Paris Hackathon. Zk recover won third prize in the Safe{Core} Protocol category. We wanted to continue the work done at the hackathon and build a team to research and implement account abstraction solutions. 
 
 #### Technology & Specs we are researching:
 
@@ -41,6 +38,17 @@ Creating tool for developers to deploy wallets solutions faster such as a [Safe 
 ## 100 Builders Program
 
 What we will be building for **100 Builders Program**: A Smart Account Wallet product called panada wallet that integrates our research and provides a great UX for users. We will also be building developer tools to help other teams build smart account solutions faster.
+
+## About The panada Team
+
+Panada is a research initiative born out of the work done by [zkrecover.xyz](http://zkrecover.xyz) at ETH Global Paris Hackathon. Zk recover won third prize in the Safe{Core} Protocol category. We wanted to continue the work done at the hackathon and build a team to research and implement account abstraction solutions. 
+
+## Why Panada
+
+Panada is a bread soup from Europe. It serves as an inexpensive meal in the poor areas of the countryside. Panada is humble, tasty & is eaten by ordinary folk. The name reminds us to be grounded, practical & build products for ordinary people. 
+
+We are not against speculative hyper experimentation as it accelerate technical progress but we believe someone should also focus on building the day to day use cases, 
+
 
 
 
